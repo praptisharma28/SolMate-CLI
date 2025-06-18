@@ -131,8 +131,7 @@ Explore:
 <img width="606" alt="Screenshot 2025-06-19 at 1 41 35 AM" src="https://github.com/user-attachments/assets/672b9504-4caf-4287-b38d-c90a472427ef" />
 <img width="605" alt="Screenshot 2025-06-19 at 1 42 14 AM" src="https://github.com/user-attachments/assets/d8fab964-2e0f-42c8-aaba-cd2d6477c934" />
 <img width="604" alt="Screenshot 2025-06-19 at 1 44 03 AM" src="https://github.com/user-attachments/assets/a73345d9-7be6-4af3-8158-f69f205e3c29" />
-<img width="606" alt="Screenshot 2025-06-19 at 1 44 33 AM" src="https://github.com/user-attachments/assets/1f58cef1-72cc-4525-94c0-54731effffa8" />
-
+<img width="604" alt="Screenshot 2025-06-19 at 1 47 57 AM" src="https://github.com/user-attachments/assets/6b8b80f9-7deb-4172-a854-a71eeaeab00a" />
 
 ---
 
